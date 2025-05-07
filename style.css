@@ -1,0 +1,27 @@
+#intro {
+    color: rgb(71, 21, 234);
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    background-color: lightblue;
+}
+.details {
+    color: bisque;
+    font-weight: bold;
+    line-height: 1.8;
+    letter-spacing: 1px;
+    font-size: 18px;
+    background-color: black;
+}
+.note {
+    color: rgb(22, 253, 1);
+    font-size: 16px;
+    text-align: left;
+    font-weight: 600;
+    background-color: rgb(225, 13, 13);
+}
+span {
+    color: blue;
+    font-weight: bold;
+    background-color: aqua;
+}
